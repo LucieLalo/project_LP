@@ -1,0 +1,6 @@
+<h1>Hello {{user?.pseudo}}</h1>
+
+<div *ngIf="!user">
+    <a [routerLink]="['auth','login']">Se connecter</a>
+    <a [routerLink]="['auth','register']">S'inscrire</a>
+</div>
