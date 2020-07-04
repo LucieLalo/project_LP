@@ -33,17 +33,18 @@ export class LoginComponent implements OnInit {
 
   login(loginForm: FormGroup) {
     console.log("loginForm : ", loginForm);
-    this._authService.login(loginForm.value).subscribe(data => {
-      console.log("data : ", data);
+    this._authService.login(loginForm.value).subscribe(({isLogged, error}) => {
 
-      if (data.error) {
-        console.log(data.error);
-        this._toastr.error(data.error.message)
+      if (error) {
+        console.log(error);
+        this._toastr.error(error.message)
       }
 
-      if (data.isLogged) {
+      if (isLogged) {
         this._router.navigate(['/home']);
       }
+
+      this._authService.isLogged$.next(isLogged);
     })
   }
 

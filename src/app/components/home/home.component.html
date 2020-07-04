@@ -1,6 +1,30 @@
-<h1>Hello {{user?.pseudo}}</h1>
+<div *ngIf="isLogged" class="header">
+    <header>
+        <div class="search">
+            <form action="">
+                <input id="search" id="input-search" name="search" type="text" placeholder="Que cherchez vous ?"
+                    [formControl]="searchControl" />
+                <input type="submit" id="glass">
+            </form>
+            <div class="product-list">
+                <div *ngFor="let product of productList" (click)="selectProduct(product)">
+                    <div class="img"><img [src]="getImageUrl(product, 'thumb')" /> </div>
+                    <div class="name">{{product.product_name}}</div>
+                </div>
+            </div>
+        </div>
+        <button (click)="logout()" class="deconnexion">Déconnexion</button>
 
-<div *ngIf="!user">
+
+    </header>
+    <h1>Hello {{user?.pseudo}}</h1>
+
+    <app-product-details [products]="product"></app-product-details>
+</div>
+
+
+
+<div *ngIf="!isLogged">
     <a [routerLink]="['auth','login']">Se connecter</a>
     <a [routerLink]="['auth','register']">S'inscrire</a>
 </div>

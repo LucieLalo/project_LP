@@ -1,0 +1,1199 @@
+{
+    "_id" : "0002000002404",
+    "last_modified_by" : null,
+    "additives_prev_original_tags" : [ 
+        "en:e415"
+    ],
+    "unknown_nutrients_tags" : [],
+    "completeness" : 0.483333333333333,
+    "nova_group" : 4,
+    "countries_lc" : "fr",
+    "states_tags" : [ 
+        "en:to-be-completed", 
+        "en:nutrition-facts-completed", 
+        "en:ingredients-completed", 
+        "en:expiration-date-to-be-completed", 
+        "en:packaging-code-to-be-completed", 
+        "en:characteristics-to-be-completed", 
+        "en:categories-to-be-completed", 
+        "en:brands-completed", 
+        "en:packaging-to-be-completed", 
+        "en:quantity-to-be-completed", 
+        "en:product-name-completed", 
+        "en:photos-to-be-validated", 
+        "en:photos-uploaded"
+    ],
+    "brands_debug_tags" : [],
+    "countries_hierarchy" : [ 
+        "en:france"
+    ],
+    "editors_tags" : [ 
+        "kiliweb", 
+        "yuka.YllrdU9iVVFvT0U3dXZBUTJrN0V4dFowenBXTUFYcVJPODQ3SVE9PQ", 
+        "openfoodfacts-contributors"
+    ],
+    "data_sources" : "App - yuka, Apps",
+    "nutrition_grades_tags" : [ 
+        "not-applicable"
+    ],
+    "data_quality_errors_tags" : [],
+    "ingredients_percent_analysis" : -1,
+    "brands" : "Bonduelle",
+    "informers_tags" : [ 
+        "yuka.YllrdU9iVVFvT0U3dXZBUTJrN0V4dFowenBXTUFYcVJPODQ3SVE9PQ", 
+        "kiliweb"
+    ],
+    "traces_from_user" : "(fr) ",
+    "nutrient_levels" : {},
+    "data_quality_tags" : [ 
+        "en:ingredients-unknown-score-above-0", 
+        "en:ingredients-50-percent-unknown", 
+        "en:ingredients-fr-ending-comma", 
+        "en:ingredients-fr-unexpected-chars-currencies", 
+        "en:ingredients-fr-unexpected-chars-arobase", 
+        "en:ingredients-percent-analysis-not-ok"
+    ],
+    "nucleotides_tags" : [],
+    "languages" : {
+        "en:french" : 4
+    },
+    "nova_group_tags" : [ 
+        "not-applicable"
+    ],
+    "brands_tags" : [ 
+        "bonduelle"
+    ],
+    "ingredients_text_with_allergens_fr" : "SALADE -<span class=\"allergen\">DE BLÉ</span>, COURGETTES, FÈVES, FETA ASSAISONNÉE. Blé dur réhydFaté (87%), courgettes poivrpn, fèves pelées feta (5963 (<span class=\"allergen\">lait de brebis</span> et de chèvre pasteurisé, sel, <span class=\"allergen\">ferments lactiques</span> (dont lait), coagulant microbien), @uinod blanc, basilic vinaigré dtalcool, huile d'olive vierge extra, eau, Oienon, sucre, buile de éolza, sel, fromage à pâte dure râpé (iaiÇ sel, ferments lactiquest présure cruzrobjenne), moutarde de Dijon (eau, graines de <span class=\"allergen\">moutarde</span>, vinaigre d'alcool, sel), émulsifiant ; mbno et dig}ycéfides diacides gras;épëississant : gomme xanthane, antioxydant -ï acide ascorbique, Fabriquè dan$0fi atetier util{sant également céleri, poisson* crustacé, <span class=\"allergen\">fruits à coque</span>, sojas Â consommer jui@atj ; voir cote, COfidittortae protectrice, ct / congeler,",
+    "misc_tags" : [ 
+        "en:nutriscore-not-computed"
+    ],
+    "ingredients_text_debug_tags" : [],
+    "labels_hierarchy" : [],
+    "labels_tags" : [],
+    "unknown_ingredients_n" : 23,
+    "nutriments" : {
+        "energy-kcal_value" : 126,
+        "proteins_unit" : "",
+        "proteins" : 4,
+        "sugars_value" : 3,
+        "sodium_value" : 0.28,
+        "fat_unit" : "",
+        "nova-group" : 4,
+        "energy_value" : 126,
+        "energy-kcal_100g" : 527,
+        "salt_100g" : 0.7,
+        "fruits-vegetables-nuts-estimate-from-ingredients_100g" : 0,
+        "saturated-fat" : 1.5,
+        "sugars_100g" : 3,
+        "energy_unit" : "kcal",
+        "salt_unit" : "",
+        "salt" : 0.7,
+        "energy-kcal_unit" : "kcal",
+        "nova-group_serving" : 4,
+        "proteins_100g" : 4,
+        "sodium_unit" : "g",
+        "carbohydrates_100g" : 16,
+        "fiber" : 2.5,
+        "carbohydrates_unit" : "",
+        "saturated-fat_value" : 1.5,
+        "fat_value" : 4.5,
+        "fat" : 4.5,
+        "sugars" : 3,
+        "salt_value" : 0.7,
+        "proteins_value" : 4,
+        "carbohydrates_value" : 16,
+        "saturated-fat_unit" : "",
+        "fat_100g" : 4.5,
+        "saturated-fat_100g" : 1.5,
+        "fiber_value" : 2.5,
+        "fiber_100g" : 2.5,
+        "sugars_unit" : "",
+        "energy_100g" : 527,
+        "nova-group_100g" : 4,
+        "fiber_unit" : "",
+        "energy-kcal" : 527,
+        "sodium" : 0.28,
+        "energy" : 527,
+        "carbohydrates" : 16,
+        "sodium_100g" : 0.28
+    },
+    "product_name_debug_tags" : [],
+    "nucleotides_prev_tags" : [],
+    "pnns_groups_1" : "unknown",
+    "ingredients_from_or_that_may_be_from_palm_oil_n" : 0,
+    "languages_tags" : [ 
+        "en:french", 
+        "en:1"
+    ],
+    "data_quality_bugs_tags" : [],
+    "nutrition_score_debug" : "no score when the product does not have a category",
+    "last_image_dates_tags" : [ 
+        "2017-12-12", 
+        "2017-12", 
+        "2017"
+    ],
+    "ingredients_original_tags" : [ 
+        "en:salad", 
+        "en:wheat", 
+        "en:courgette", 
+        "en:broad-bean", 
+        "fr:FETA ASSAISONNÉE", 
+        "fr:Blé dur réhydFaté", 
+        "fr:courgettes poivrpn", 
+        "fr:fèves pelées feta", 
+        "fr:5963", 
+        "fr:@uinod blanc", 
+        "fr:basilic vinaigré dtalcool", 
+        "en:extra-virgin-olive-oil", 
+        "en:water", 
+        "fr:Oienon", 
+        "en:sugar", 
+        "fr:buile de éolza", 
+        "en:salt", 
+        "en:hard-cheese", 
+        "fr:moutarde-de-dijon", 
+        "en:emulsifier", 
+        "fr:mbno et dig}ycéfides diacides gras", 
+        "fr:épëississant", 
+        "en:antioxidant", 
+        "fr:ï acide ascorbique", 
+        "fr:Fabriquè dan$0fi atetier util", 
+        "fr:sant également céleri", 
+        "fr:poisson* crustacé", 
+        "en:nut", 
+        "fr:sojas Â consommer jui@atj", 
+        "fr:voir cote", 
+        "fr:COfidittortae protectrice", 
+        "fr:ct", 
+        "fr:congeler", 
+        "fr:lait de brebis et de chèvre pasteurisé", 
+        "en:salt", 
+        "en:lactic-ferments", 
+        "en:microbial-coagulating-enzyme", 
+        "fr:iaiÇ sel", 
+        "fr:ferments lactiquest présure cruzrobjenne", 
+        "en:water", 
+        "en:mustard-seed", 
+        "en:alcohol-vinegar", 
+        "en:salt", 
+        "en:e415", 
+        "en:milk"
+    ],
+    "data_quality_info_tags" : [],
+    "minerals_prev_tags" : [],
+    "allergens_from_user" : "(fr) en:gluten",
+    "ingredients_text" : "SALADE -DE BLÉ, COURGETTES, FÈVES, FETA ASSAISONNÉE. Blé dur réhydFaté (87%), courgettes poivrpn, fèves pelées feta (5963 (lait de brebis et de chèvre pasteurisé, sel, ferments lactiques (dont lait), coagulant microbien), @uinod blanc, basilic vinaigré dtalcool, huile d'olive vierge extra, eau, Oienon, sucre, buile de éolza, sel, fromage à pâte dure râpé (iaiÇ sel, ferments lactiquest présure cruzrobjenne), moutarde de Dijon (eau, graines de moutarde, vinaigre d'alcool, sel), émulsifiant ; mbno et dig}ycéfides diacides gras;épëississant : gomme xanthane, antioxydant -ï acide ascorbique, Fabriquè dan$0fi atetier util{sant également céleri, poisson* crustacé, fruits à coque, sojas Â consommer jui@atj ; voir cote, COfidittortae protectrice, ct / congeler,",
+    "ingredients_analysis_tags" : [ 
+        "en:palm-oil-content-unknown", 
+        "en:non-vegan", 
+        "en:vegetarian-status-unknown"
+    ],
+    "photographers_tags" : [ 
+        "kiliweb"
+    ],
+    "ingredients_debug" : [ 
+        "SALADE", 
+        " - ", 
+        " - ", 
+        " - ", 
+        null, 
+        "DE BLÉ", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " COURGETTES", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " FÈVES", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " FETA ASSAISONNÉE", 
+        ". ", 
+        null, 
+        null, 
+        null, 
+        "Blé dur réhydFaté ", 
+        "(", 
+        "(", 
+        null, 
+        null, 
+        "87%)", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " courgettes poivrpn", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " fèves pelées feta ", 
+        "(", 
+        "(", 
+        null, 
+        null, 
+        "5963 ", 
+        "(", 
+        "(", 
+        null, 
+        null, 
+        "lait de brebis et de chèvre pasteurisé", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " sel", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " ferments lactiques ", 
+        "(", 
+        "(", 
+        null, 
+        null, 
+        "dont lait)", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " coagulant microbien)", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " @uinod blanc", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " basilic vinaigré dtalcool", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " huile d'olive vierge extra", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " eau", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " Oienon", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " sucre", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " buile de éolza", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " sel", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " fromage à pâte dure râpé ", 
+        "(", 
+        "(", 
+        null, 
+        null, 
+        "iaiÇ sel", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " ferments lactiquest présure cruzrobjenne)", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " moutarde de Dijon ", 
+        "(", 
+        "(", 
+        null, 
+        null, 
+        "eau", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " graines de moutarde", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " vinaigre d'alcool", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " sel)", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " émulsifiant ", 
+        ":", 
+        ":", 
+        null, 
+        null, 
+        " ", 
+        ";", 
+        ";", 
+        null, 
+        null, 
+        " mbno et dig}ycéfides diacides gras", 
+        ";", 
+        ";", 
+        null, 
+        null, 
+        "épëississant ", 
+        ":", 
+        ":", 
+        null, 
+        null, 
+        " gomme xanthane", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " antioxydant ", 
+        ":", 
+        ":", 
+        null, 
+        null, 
+        "", 
+        " - ", 
+        " - ", 
+        " - ", 
+        null, 
+        "ï acide ascorbique", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " Fabriquè dan$0fi atetier util", 
+        "{", 
+        "{", 
+        null, 
+        null, 
+        "sant également céleri", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " poisson* crustacé", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " fruits à coque", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " sojas Â consommer jui@atj ", 
+        ";", 
+        ";", 
+        null, 
+        null, 
+        " voir cote", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " COfidittortae protectrice", 
+        ",", 
+        null, 
+        null, 
+        null, 
+        " ct ", 
+        "/", 
+        null, 
+        null, 
+        "/", 
+        " congeler", 
+        ","
+    ],
+    "id" : "0002000002404",
+    "ingredients_n_tags" : [ 
+        "45", 
+        "41-50"
+    ],
+    "additives_original_tags" : [ 
+        "en:e415"
+    ],
+    "labels" : "",
+    "countries_tags" : [ 
+        "en:france"
+    ],
+    "ciqual_food_name_tags" : [ 
+        "unknown"
+    ],
+    "last_image_t" : 1513101181,
+    "sortkey" : 201513101182,
+    "ingredients_text_debug" : "SALADE - DE BLÉ, COURGETTES, FÈVES, FETA ASSAISONNÉE. Blé dur réhydFaté (87%), courgettes poivrpn, fèves pelées feta (5963 (lait de brebis et de chèvre pasteurisé, sel, ferments lactiques (dont lait), coagulant microbien), @uinod blanc, basilic vinaigré dtalcool, huile d'olive vierge extra, eau, Oienon, sucre, buile de éolza, sel, fromage à pâte dure râpé (iaiÇ sel, ferments lactiquest présure cruzrobjenne), moutarde de Dijon (eau, graines de moutarde, vinaigre d'alcool, sel), émulsifiant : ; mbno et dig}ycéfides diacides gras;épëississant : gomme xanthane, antioxydant : - ï acide ascorbique, Fabriquè dan$0fi atetier util{sant également céleri, poisson* crustacé, fruits à coque, sojas Â consommer jui@atj ; voir cote, COfidittortae protectrice, ct / congeler,",
+    "entry_dates_tags" : [ 
+        "2017-12-12", 
+        "2017-12", 
+        "2017"
+    ],
+    "additives_debug_tags" : [ 
+        "en-e300-added"
+    ],
+    "ingredients_n" : 45,
+    "categories_hierarchy" : [],
+    "pnns_groups_2_tags" : [ 
+        "unknown", 
+        "missing-category"
+    ],
+    "nutrient_levels_tags" : [],
+    "countries_debug_tags" : [],
+    "traces_tags" : [],
+    "correctors_tags" : [ 
+        "openfoodfacts-contributors"
+    ],
+    "pnns_groups_1_tags" : [ 
+        "unknown", 
+        "missing-category"
+    ],
+    "last_edit_dates_tags" : [ 
+        "2017-12-12", 
+        "2017-12", 
+        "2017"
+    ],
+    "data_quality_warnings_tags" : [ 
+        "en:ingredients-unknown-score-above-0", 
+        "en:ingredients-50-percent-unknown", 
+        "en:ingredients-fr-ending-comma", 
+        "en:ingredients-fr-unexpected-chars-currencies", 
+        "en:ingredients-fr-unexpected-chars-arobase", 
+        "en:ingredients-percent-analysis-not-ok"
+    ],
+    "additives_old_tags" : [ 
+        "en:e1403", 
+        "en:e415"
+    ],
+    "traces_hierarchy" : [],
+    "known_ingredients_n" : 35,
+    "traces" : "",
+    "pnns_groups_2" : "unknown",
+    "product_name" : "Graines de salade",
+    "complete" : 0,
+    "ingredients_from_palm_oil_n" : 0,
+    "nutrition_data_per_debug_tags" : [],
+    "minerals_tags" : [],
+    "languages_codes" : {
+        "fr" : 4
+    },
+    "ingredients_ids_debug" : [ 
+        "salade", 
+        "de-ble", 
+        "courgettes", 
+        "feves", 
+        "feta-assaisonnee", 
+        "ble-dur-rehydfate", 
+        "87", 
+        "courgettes-poivrpn", 
+        "feves-pelees-feta", 
+        "5963", 
+        "lait-de-brebis-et-de-chevre-pasteurise", 
+        "sel", 
+        "ferments-lactiques", 
+        "dont-lait", 
+        "coagulant-microbien", 
+        "uinod-blanc", 
+        "basilic-vinaigre-dtalcool", 
+        "huile-d-olive-vierge-extra", 
+        "eau", 
+        "oienon", 
+        "sucre", 
+        "buile-de-eolza", 
+        "sel", 
+        "fromage-a-pate-dure-rape", 
+        "iaic-sel", 
+        "ferments-lactiquest-presure-cruzrobjenne", 
+        "moutarde-de-dijon", 
+        "eau", 
+        "graines-de-moutarde", 
+        "vinaigre-d-alcool", 
+        "sel", 
+        "emulsifiant", 
+        "mbno-et-dig-ycefides-diacides-gras", 
+        "epeississant", 
+        "gomme-xanthane", 
+        "antioxydant", 
+        "i-acide-ascorbique", 
+        "fabrique-dan-0fi-atetier-util", 
+        "sant-egalement-celeri", 
+        "poisson-crustace", 
+        "fruits-a-coque", 
+        "sojas-a-consommer-jui-atj", 
+        "voir-cote", 
+        "cofidittortae-protectrice", 
+        "ct", 
+        "congeler"
+    ],
+    "states_hierarchy" : [ 
+        "en:to-be-completed", 
+        "en:nutrition-facts-completed", 
+        "en:ingredients-completed", 
+        "en:expiration-date-to-be-completed", 
+        "en:packaging-code-to-be-completed", 
+        "en:characteristics-to-be-completed", 
+        "en:categories-to-be-completed", 
+        "en:brands-completed", 
+        "en:packaging-to-be-completed", 
+        "en:quantity-to-be-completed", 
+        "en:product-name-completed", 
+        "en:photos-to-be-validated", 
+        "en:photos-uploaded"
+    ],
+    "ingredients_text_with_allergens" : "SALADE -<span class=\"allergen\">DE BLÉ</span>, COURGETTES, FÈVES, FETA ASSAISONNÉE. Blé dur réhydFaté (87%), courgettes poivrpn, fèves pelées feta (5963 (<span class=\"allergen\">lait de brebis</span> et de chèvre pasteurisé, sel, <span class=\"allergen\">ferments lactiques</span> (dont lait), coagulant microbien), @uinod blanc, basilic vinaigré dtalcool, huile d'olive vierge extra, eau, Oienon, sucre, buile de éolza, sel, fromage à pâte dure râpé (iaiÇ sel, ferments lactiquest présure cruzrobjenne), moutarde de Dijon (eau, graines de <span class=\"allergen\">moutarde</span>, vinaigre d'alcool, sel), émulsifiant ; mbno et dig}ycéfides diacides gras;épëississant : gomme xanthane, antioxydant -ï acide ascorbique, Fabriquè dan$0fi atetier util{sant également céleri, poisson* crustacé, <span class=\"allergen\">fruits à coque</span>, sojas Â consommer jui@atj ; voir cote, COfidittortae protectrice, ct / congeler,",
+    "additives_old_n" : 2,
+    "creator" : "kiliweb",
+    "created_t" : 1513101177,
+    "languages_hierarchy" : [ 
+        "en:french"
+    ],
+    "product_name_fr" : "Graines de salade",
+    "lang" : "fr",
+    "rev" : 7,
+    "nova_groups" : "4",
+    "states" : "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:categories-to-be-completed, en:brands-completed, en:packaging-to-be-completed, en:quantity-to-be-completed, en:product-name-completed, en:photos-to-be-validated, en:photos-uploaded",
+    "nova_group_debug" : " -- ingredients/en:sugar : 3 -- ingredients/en:emulsifier : 4",
+    "ingredients_that_may_be_from_palm_oil_tags" : [],
+    "checkers_tags" : [],
+    "ingredients_text_fr" : "SALADE -DE BLÉ, COURGETTES, FÈVES, FETA ASSAISONNÉE. Blé dur réhydFaté (87%), courgettes poivrpn, fèves pelées feta (5963 (lait de brebis et de chèvre pasteurisé, sel, ferments lactiques (dont lait), coagulant microbien), @uinod blanc, basilic vinaigré dtalcool, huile d'olive vierge extra, eau, Oienon, sucre, buile de éolza, sel, fromage à pâte dure râpé (iaiÇ sel, ferments lactiquest présure cruzrobjenne), moutarde de Dijon (eau, graines de moutarde, vinaigre d'alcool, sel), émulsifiant ; mbno et dig}ycéfides diacides gras;épëississant : gomme xanthane, antioxydant -ï acide ascorbique, Fabriquè dan$0fi atetier util{sant également céleri, poisson* crustacé, fruits à coque, sojas Â consommer jui@atj ; voir cote, COfidittortae protectrice, ct / congeler,",
+    "allergens_from_ingredients" : "DE BLÉ, DE BLÉ, lait de brebis, ferments lactiques, moutarde, fruits à coque",
+    "categories" : "",
+    "ingredients_tags" : [ 
+        "en:salad", 
+        "en:vegetable", 
+        "en:wheat", 
+        "en:cereal", 
+        "en:courgette", 
+        "en:broad-bean", 
+        "en:legume", 
+        "fr:feta-assaisonnee", 
+        "fr:ble-dur-rehydfate", 
+        "fr:courgettes-poivrpn", 
+        "fr:feves-pelees-feta", 
+        "fr:5963", 
+        "fr:uinod-blanc", 
+        "fr:basilic-vinaigre-dtalcool", 
+        "en:extra-virgin-olive-oil", 
+        "en:oil-and-fat", 
+        "en:vegetable-oil-and-fat", 
+        "en:vegetable-oil", 
+        "en:olive-oil", 
+        "en:virgin-olive-oil", 
+        "en:water", 
+        "fr:oienon", 
+        "en:sugar", 
+        "fr:buile-de-eolza", 
+        "en:salt", 
+        "en:hard-cheese", 
+        "en:dairy", 
+        "en:cheese", 
+        "fr:moutarde-de-dijon", 
+        "en:spice", 
+        "en:mustard", 
+        "en:emulsifier", 
+        "fr:mbno-et-dig-ycefides-diacides-gras", 
+        "fr:epeississant", 
+        "en:antioxidant", 
+        "fr:i-acide-ascorbique", 
+        "fr:fabrique-dan-0fi-atetier-util", 
+        "fr:sant-egalement-celeri", 
+        "fr:poisson-crustace", 
+        "en:nut", 
+        "fr:sojas-a-consommer-jui-atj", 
+        "fr:voir-cote", 
+        "fr:cofidittortae-protectrice", 
+        "fr:ct", 
+        "fr:congeler", 
+        "fr:lait-de-brebis-et-de-chevre-pasteurise", 
+        "en:lactic-ferments", 
+        "en:ferment", 
+        "en:microbial-culture", 
+        "en:microbial-coagulating-enzyme", 
+        "en:coagulating-enzyme", 
+        "fr:iaic-sel", 
+        "fr:ferments-lactiquest-presure-cruzrobjenne", 
+        "en:mustard-seed", 
+        "en:alcohol-vinegar", 
+        "en:vinegar", 
+        "en:e415", 
+        "en:milk"
+    ],
+    "nutrition_data_per" : "100g",
+    "nova_groups_tags" : [ 
+        "en:4-ultra-processed-food-and-drink-products"
+    ],
+    "nutrition_score_beverage" : 0,
+    "traces_from_ingredients" : "",
+    "other_nutritional_substances_tags" : [],
+    "labels_prev_tags" : [],
+    "allergens_tags" : [ 
+        "en:gluten", 
+        "en:milk", 
+        "en:mustard", 
+        "en:nuts"
+    ],
+    "category_properties" : {},
+    "categories_tags" : [],
+    "vitamins_tags" : [],
+    "allergens" : "en:gluten",
+    "max_imgid" : "2",
+    "last_modified_t" : 1513101182,
+    "lc" : "fr",
+    "ingredients_hierarchy" : [ 
+        "en:salad", 
+        "en:vegetable", 
+        "en:wheat", 
+        "en:cereal", 
+        "en:courgette", 
+        "en:broad-bean", 
+        "en:legume", 
+        "fr:FETA ASSAISONNÉE", 
+        "fr:Blé dur réhydFaté", 
+        "fr:courgettes poivrpn", 
+        "fr:fèves pelées feta", 
+        "fr:5963", 
+        "fr:@uinod blanc", 
+        "fr:basilic vinaigré dtalcool", 
+        "en:extra-virgin-olive-oil", 
+        "en:oil-and-fat", 
+        "en:vegetable-oil-and-fat", 
+        "en:vegetable-oil", 
+        "en:olive-oil", 
+        "en:virgin-olive-oil", 
+        "en:water", 
+        "fr:Oienon", 
+        "en:sugar", 
+        "fr:buile de éolza", 
+        "en:salt", 
+        "en:hard-cheese", 
+        "en:dairy", 
+        "en:cheese", 
+        "fr:moutarde-de-dijon", 
+        "en:spice", 
+        "en:mustard", 
+        "en:emulsifier", 
+        "fr:mbno et dig}ycéfides diacides gras", 
+        "fr:épëississant", 
+        "en:antioxidant", 
+        "fr:ï acide ascorbique", 
+        "fr:Fabriquè dan$0fi atetier util", 
+        "fr:sant également céleri", 
+        "fr:poisson* crustacé", 
+        "en:nut", 
+        "fr:sojas Â consommer jui@atj", 
+        "fr:voir cote", 
+        "fr:COfidittortae protectrice", 
+        "fr:ct", 
+        "fr:congeler", 
+        "fr:lait de brebis et de chèvre pasteurisé", 
+        "en:lactic-ferments", 
+        "en:ferment", 
+        "en:microbial-culture", 
+        "en:microbial-coagulating-enzyme", 
+        "en:coagulating-enzyme", 
+        "fr:iaiÇ sel", 
+        "fr:ferments lactiquest présure cruzrobjenne", 
+        "en:mustard-seed", 
+        "en:alcohol-vinegar", 
+        "en:vinegar", 
+        "en:e415", 
+        "en:milk"
+    ],
+    "interface_version_created" : "20150316.jqm2",
+    "categories_lc" : "fr",
+    "additives_n" : 1,
+    "amino_acids_tags" : [],
+    "interface_version_modified" : "20150316.jqm2",
+    "update_key" : "ingredients20200511",
+    "ingredients" : [ 
+        {
+            "rank" : 1,
+            "vegan" : "yes",
+            "text" : "SALADE",
+            "vegetarian" : "yes",
+            "id" : "en:salad"
+        }, 
+        {
+            "text" : "DE BLÉ",
+            "vegan" : "yes",
+            "rank" : 2,
+            "vegetarian" : "yes",
+            "id" : "en:wheat"
+        }, 
+        {
+            "id" : "en:courgette",
+            "vegetarian" : "yes",
+            "rank" : 3,
+            "vegan" : "yes",
+            "text" : "COURGETTES"
+        }, 
+        {
+            "text" : "FÈVES",
+            "vegan" : "yes",
+            "rank" : 4,
+            "id" : "en:broad-bean",
+            "vegetarian" : "yes"
+        }, 
+        {
+            "id" : "fr:FETA ASSAISONNÉE",
+            "text" : "FETA ASSAISONNÉE",
+            "rank" : 5
+        }, 
+        {
+            "id" : "fr:Blé dur réhydFaté",
+            "percent" : "87",
+            "text" : "Blé dur réhydFaté",
+            "rank" : 6
+        }, 
+        {
+            "rank" : 7,
+            "text" : "courgettes poivrpn",
+            "id" : "fr:courgettes poivrpn"
+        }, 
+        {
+            "id" : "fr:fèves pelées feta",
+            "text" : "fèves pelées feta",
+            "rank" : 8
+        }, 
+        {
+            "id" : "fr:5963",
+            "text" : "5963",
+            "ingredients" : [ 
+                {
+                    "id" : "fr:lait de brebis et de chèvre pasteurisé",
+                    "text" : "lait de brebis et de chèvre pasteurisé"
+                }, 
+                {
+                    "id" : "en:salt",
+                    "text" : "sel"
+                }, 
+                {
+                    "ingredients" : [ 
+                        {
+                            "id" : "en:milk",
+                            "text" : "dont lait"
+                        }
+                    ],
+                    "text" : "ferments lactiques",
+                    "id" : "en:lactic-ferments"
+                }, 
+                {
+                    "id" : "en:microbial-coagulating-enzyme",
+                    "text" : "coagulant microbien"
+                }
+            ],
+            "has_sub_ingredients" : "yes",
+            "rank" : 9
+        }, 
+        {
+            "rank" : 10,
+            "text" : "@uinod blanc",
+            "id" : "fr:@uinod blanc"
+        }, 
+        {
+            "id" : "fr:basilic vinaigré dtalcool",
+            "text" : "basilic vinaigré dtalcool",
+            "rank" : 11
+        }, 
+        {
+            "from_palm_oil" : "no",
+            "text" : "huile d'olive vierge extra",
+            "vegan" : "yes",
+            "rank" : 12,
+            "vegetarian" : "yes",
+            "id" : "en:extra-virgin-olive-oil"
+        }, 
+        {
+            "rank" : 13,
+            "vegan" : "yes",
+            "text" : "eau",
+            "vegetarian" : "yes",
+            "id" : "en:water"
+        }, 
+        {
+            "id" : "fr:Oienon",
+            "text" : "Oienon",
+            "rank" : 14
+        }, 
+        {
+            "rank" : 15,
+            "text" : "sucre",
+            "vegan" : "yes",
+            "id" : "en:sugar",
+            "vegetarian" : "yes"
+        }, 
+        {
+            "id" : "fr:buile de éolza",
+            "rank" : 16,
+            "text" : "buile de éolza"
+        }, 
+        {
+            "vegetarian" : "yes",
+            "id" : "en:salt",
+            "rank" : 17,
+            "text" : "sel",
+            "vegan" : "yes"
+        }, 
+        {
+            "has_sub_ingredients" : "yes",
+            "processing" : "en:grated",
+            "text" : "fromage à pâte dure",
+            "ingredients" : [ 
+                {
+                    "id" : "fr:iaiÇ sel",
+                    "text" : "iaiÇ sel"
+                }, 
+                {
+                    "id" : "fr:ferments lactiquest présure cruzrobjenne",
+                    "text" : "ferments lactiquest présure cruzrobjenne"
+                }
+            ],
+            "rank" : 18,
+            "vegan" : "no",
+            "id" : "en:hard-cheese",
+            "vegetarian" : "maybe"
+        }, 
+        {
+            "vegetarian" : "yes",
+            "id" : "fr:moutarde-de-dijon",
+            "ingredients" : [ 
+                {
+                    "id" : "en:water",
+                    "text" : "eau"
+                }, 
+                {
+                    "text" : "graines de moutarde",
+                    "id" : "en:mustard-seed"
+                }, 
+                {
+                    "id" : "en:alcohol-vinegar",
+                    "text" : "vinaigre d'alcool"
+                }, 
+                {
+                    "text" : "sel",
+                    "id" : "en:salt"
+                }
+            ],
+            "text" : "moutarde de Dijon",
+            "vegan" : "yes",
+            "rank" : 19,
+            "has_sub_ingredients" : "yes"
+        }, 
+        {
+            "rank" : 20,
+            "text" : "émulsifiant",
+            "id" : "en:emulsifier"
+        }, 
+        {
+            "id" : "fr:mbno et dig}ycéfides diacides gras",
+            "rank" : 21,
+            "text" : "mbno et dig}ycéfides diacides gras"
+        }, 
+        {
+            "ingredients" : [ 
+                {
+                    "id" : "en:e415",
+                    "text" : "gomme xanthane"
+                }
+            ],
+            "text" : "épëississant",
+            "has_sub_ingredients" : "yes",
+            "rank" : 22,
+            "id" : "fr:épëississant"
+        }, 
+        {
+            "text" : "antioxydant",
+            "rank" : 23,
+            "id" : "en:antioxidant"
+        }, 
+        {
+            "text" : "ï acide ascorbique",
+            "rank" : 24,
+            "id" : "fr:ï acide ascorbique"
+        }, 
+        {
+            "text" : "Fabriquè dan$0fi atetier util",
+            "rank" : 25,
+            "id" : "fr:Fabriquè dan$0fi atetier util"
+        }, 
+        {
+            "rank" : 26,
+            "text" : "sant également céleri",
+            "id" : "fr:sant également céleri"
+        }, 
+        {
+            "id" : "fr:poisson* crustacé",
+            "rank" : 27,
+            "text" : "poisson* crustacé"
+        }, 
+        {
+            "id" : "en:nut",
+            "vegetarian" : "yes",
+            "vegan" : "yes",
+            "text" : "fruits à coque",
+            "rank" : 28
+        }, 
+        {
+            "id" : "fr:sojas Â consommer jui@atj",
+            "rank" : 29,
+            "text" : "sojas Â consommer jui@atj"
+        }, 
+        {
+            "id" : "fr:voir cote",
+            "text" : "voir cote",
+            "rank" : 30
+        }, 
+        {
+            "text" : "COfidittortae protectrice",
+            "rank" : 31,
+            "id" : "fr:COfidittortae protectrice"
+        }, 
+        {
+            "rank" : 32,
+            "text" : "ct",
+            "id" : "fr:ct"
+        }, 
+        {
+            "id" : "fr:congeler",
+            "rank" : 33,
+            "text" : "congeler"
+        }, 
+        {
+            "id" : "fr:lait de brebis et de chèvre pasteurisé",
+            "text" : "lait de brebis et de chèvre pasteurisé"
+        }, 
+        {
+            "id" : "en:salt",
+            "vegetarian" : "yes",
+            "text" : "sel",
+            "vegan" : "yes"
+        }, 
+        {
+            "vegan" : "yes",
+            "text" : "ferments lactiques",
+            "has_sub_ingredients" : "yes",
+            "id" : "en:lactic-ferments",
+            "vegetarian" : "yes"
+        }, 
+        {
+            "id" : "en:microbial-coagulating-enzyme",
+            "vegetarian" : "yes",
+            "vegan" : "yes",
+            "text" : "coagulant microbien"
+        }, 
+        {
+            "text" : "iaiÇ sel",
+            "id" : "fr:iaiÇ sel"
+        }, 
+        {
+            "id" : "fr:ferments lactiquest présure cruzrobjenne",
+            "text" : "ferments lactiquest présure cruzrobjenne"
+        }, 
+        {
+            "vegetarian" : "yes",
+            "id" : "en:water",
+            "text" : "eau",
+            "vegan" : "yes"
+        }, 
+        {
+            "text" : "graines de moutarde",
+            "vegan" : "yes",
+            "vegetarian" : "yes",
+            "id" : "en:mustard-seed"
+        }, 
+        {
+            "vegetarian" : "yes",
+            "id" : "en:alcohol-vinegar",
+            "text" : "vinaigre d'alcool",
+            "vegan" : "yes"
+        }, 
+        {
+            "vegan" : "yes",
+            "text" : "sel",
+            "id" : "en:salt",
+            "vegetarian" : "yes"
+        }, 
+        {
+            "vegan" : "yes",
+            "text" : "gomme xanthane",
+            "vegetarian" : "yes",
+            "id" : "en:e415"
+        }, 
+        {
+            "id" : "en:milk",
+            "vegetarian" : "yes",
+            "text" : "dont lait",
+            "vegan" : "no"
+        }
+    ],
+    "countries" : "France",
+    "additives_tags" : [ 
+        "en:e415"
+    ],
+    "labels_prev_hierarchy" : [],
+    "allergens_hierarchy" : [ 
+        "en:gluten", 
+        "en:milk", 
+        "en:mustard", 
+        "en:nuts"
+    ],
+    "code" : "0002000002404",
+    "vitamins_prev_tags" : [],
+    "labels_lc" : "fr",
+    "_keywords" : [ 
+        "bonduelle", 
+        "salade", 
+        "graine", 
+        "de"
+    ],
+    "codes_tags" : [ 
+        "code-13", 
+        "0002000002404", 
+        "000200000240x", 
+        "00020000024xx", 
+        "0002000002xxx", 
+        "000200000xxxx", 
+        "00020000xxxxx", 
+        "0002000xxxxxx", 
+        "000200xxxxxxx", 
+        "00020xxxxxxxx", 
+        "0002xxxxxxxxx", 
+        "000xxxxxxxxxx", 
+        "00xxxxxxxxxxx", 
+        "0xxxxxxxxxxxx"
+    ],
+    "ingredients_that_may_be_from_palm_oil_n" : 0,
+    "nutrition_data_prepared_per" : "100g",
+    "ingredients_from_palm_oil_tags" : [],
+    "data_sources_tags" : [ 
+        "app-yuka", 
+        "apps"
+    ],
+    "no_nutrition_data" : "",
+    "images" : {
+        "2" : {
+            "uploaded_t" : "1513101181",
+            "sizes" : {
+                "full" : {
+                    "h" : 937,
+                    "w" : 3017
+                },
+                "400" : {
+                    "w" : 400,
+                    "h" : 124
+                },
+                "100" : {
+                    "w" : 100,
+                    "h" : 31
+                }
+            },
+            "uploader" : "kiliweb"
+        },
+        "front_fr" : {
+            "sizes" : {
+                "full" : {
+                    "h" : 1360,
+                    "w" : 1021
+                },
+                "100" : {
+                    "w" : 75,
+                    "h" : 100
+                },
+                "200" : {
+                    "w" : 150,
+                    "h" : 200
+                },
+                "400" : {
+                    "w" : 300,
+                    "h" : 400
+                }
+            },
+            "rev" : "4",
+            "x1" : null,
+            "normalize" : "0",
+            "white_magic" : "0",
+            "y1" : null,
+            "y2" : null,
+            "angle" : null,
+            "x2" : null,
+            "geometry" : "0x0-0-0",
+            "imgid" : "1"
+        },
+        "ingredients_fr" : {
+            "sizes" : {
+                "full" : {
+                    "w" : 3017,
+                    "h" : 937
+                },
+                "400" : {
+                    "h" : 124,
+                    "w" : 400
+                },
+                "200" : {
+                    "h" : 62,
+                    "w" : 200
+                },
+                "100" : {
+                    "h" : 31,
+                    "w" : 100
+                }
+            },
+            "rev" : "7",
+            "white_magic" : "0",
+            "x1" : null,
+            "orientation" : "0",
+            "normalize" : "0",
+            "ocr" : 1,
+            "y1" : null,
+            "geometry" : "0x0-0-0",
+            "imgid" : "2",
+            "x2" : null,
+            "y2" : null,
+            "angle" : null
+        },
+        "1" : {
+            "uploader" : "kiliweb",
+            "uploaded_t" : "1513101179",
+            "sizes" : {
+                "400" : {
+                    "h" : 400,
+                    "w" : 300
+                },
+                "100" : {
+                    "w" : 75,
+                    "h" : 100
+                },
+                "full" : {
+                    "w" : 1021,
+                    "h" : 1360
+                }
+            }
+        }
+    },
+    "amino_acids_prev_tags" : [],
+    "last_editor" : null
+}

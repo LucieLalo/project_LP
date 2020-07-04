@@ -1,0 +1,33 @@
+<div class="product" *ngIf="products">
+    <h1>{{products.product_name}}</h1>
+    <p class="code">{{products.code}}</p>
+    <img [src]="getImageUrl(products, 'standard')" />
+
+    <div class="product-info">
+        <div>
+            <span class="label">Marque : </span> <span>{{products.brands}}</span>
+        </div>
+        <div>
+            <span class="label">Quantité : </span> <span>{{products.quantity}}</span>
+        </div>
+        <div>
+            <span class="label">Catégorie(s) : </span> <span>{{products.categories}}</span>
+        </div>
+        <div>
+            <p class="label">Ingrédients : </p>
+            <div class="array-ingredient">
+                <ul *ngFor="let ingredient of products.ingredients">
+                    <li>{{ingredient.text}}</li>
+                </ul>
+            </div>
+            <!-- <button *ngIf="displayMore === false" (click)="loadMore()">Read More</button>
+            <button *ngIf="displayMore === true" (click)="loadLess()">Read Less</button> -->
+        </div>
+        <div id="allergens">
+            <span class="label">Allergène(s) : </span>
+            <div class="allergen" *ngFor="let allergen of products.allergens_from_ingredients">
+                <span>{{allergen}}</span>
+            </div>
+        </div>
+    </div>
+</div>

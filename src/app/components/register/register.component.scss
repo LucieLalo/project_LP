@@ -39,5 +39,9 @@ form {
         border-radius: 8px;
         color: #000;
 
+        &:hover {
+            background-color: #0E1A2A;
+            color: #fff;
+        }
     }
 }

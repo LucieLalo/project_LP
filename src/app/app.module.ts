@@ -12,6 +12,7 @@ import { HomeComponent } from './components/home/home.component';
 import { MainInterceptor } from './shared/interceptor/main-interceptor';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ToastrModule } from 'ngx-toastr';
+import { ProductDetailsComponent } from './components/products/product-details/product-details.component';
  
 
 
@@ -21,7 +22,8 @@ import { ToastrModule } from 'ngx-toastr';
     RegisterComponent,
     LoginComponent,
     AuthComponent,
-    HomeComponent
+    HomeComponent,
+    ProductDetailsComponent
   ],
   imports: [
     BrowserModule,

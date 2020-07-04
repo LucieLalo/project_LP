@@ -17,6 +17,6 @@ export class UserService {
 
   public me() {
     const url = `${this.apiUrl}/user/me`;
-    return this._httpClient.get<{user: any}>(url);
+    return this._httpClient.get<{user: any, error: any}>(url);
   }
 }
